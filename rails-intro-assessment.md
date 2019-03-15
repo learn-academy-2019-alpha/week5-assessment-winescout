@@ -64,7 +64,14 @@ Try your best to answer each question on your own before looking up the answer o
 
 ### 10. Name two rails generator commands and what files they create:
 
-### 11. Rails has a great community and lots of free tutorials to help you learn. Here is a list of some tutorials to choose from, choose one, do it, and then report back here at least one thing you learned. You can also use a different resource if you find one that you like better.
+### 11. There is a table called "squirrels". What SQL code would we write to print everything in the table?
+
+### 12. What is a foreign key? Where would you use it in a has many/belongs to relationship?
+[Your Answer]
+
+[Googled Answer]
+
+### 13. Rails has a great community and lots of free tutorials to help you learn. Here is a list of some tutorials to choose from, choose one, do it, and then report back here at least one thing you learned. You can also use a different resource if you find one that you like better.
 
 - https://www.tutorialspoint.com/ruby-on-rails/index.htm
 - http://railsforzombies.org
