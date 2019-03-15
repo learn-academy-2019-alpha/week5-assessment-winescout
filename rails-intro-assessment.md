@@ -16,7 +16,7 @@ Try your best to answer each question on your own before looking up the answer o
   ```
   file: config/routes
 
-  2. Create the ____________
+  2. Create the route
 
   code:
   ```
